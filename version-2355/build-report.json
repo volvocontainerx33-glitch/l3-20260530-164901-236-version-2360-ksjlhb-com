@@ -1,0 +1,23 @@
+{
+  "parsed_movies": 2000,
+  "movie_detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages_total": 2013,
+  "category_cards_total": 2000,
+  "image_files_in_zip": 0,
+  "baidu_script_missing_pages": [],
+  "player_missing_pages": [],
+  "logo": "欧美最新视频",
+  "categories": {
+    "欧美精选": 200,
+    "动作冒险": 200,
+    "悬疑惊悚": 200,
+    "奇幻科幻": 200,
+    "爱情剧情": 200,
+    "喜剧家庭": 200,
+    "纪录自然": 200,
+    "动画剧集": 200,
+    "年度新片": 200,
+    "高分推荐": 200
+  }
+}
